@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @HeroreH29
-- 👀 I’m interested in Software/Web/Game Development, Video Games, Music, and Anime
+- 👀 I’m interested in Web/Software/Embedded Sys./Game Development, Video Games, Music, and Anime
 - 🌱 I’m currently learning Full Stack Web Development (MERN)
 - 💞️ I’m looking to collaborate on future personal projects
 - 📫 How to reach me: Gmail - hezekiahruizlegaspi@gmail.com | LinkedIn - https://www.linkedin.com/in/hezekiah-ruiz-legaspi-072526261/
