@@ -2,7 +2,7 @@
 - 👀 I’m interested in Web/Software/Embedded Sys./Game Development, Video Games, Music, and Anime
 - 🌱 Currently Using/Learning: JavaScript/TypeScript, NodeJS, ExpressJS, MongoDB
 - 📚 Tech Stacks: MERN, *more soon*
-- 💞️ I’m looking to collaborate on future personal projects
+- 🤝 I’m looking to collaborate on future personal projects
 - 📫 How to reach me: Gmail - hezekiahruizlegaspi@gmail.com | LinkedIn - https://www.linkedin.com/in/hezekiah-ruiz-legaspi-072526261/
 
 <!---
