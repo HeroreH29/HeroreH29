@@ -1,11 +1,15 @@
-- 👋 Hi, I’m @HeroreH29
-- 👀 I’m interested in Web/Software/Embedded Sys./Game Development, Video Games, Music, and Anime
-- 🌱 Currently Using/Learning: JavaScript/TypeScript, NodeJS, ExpressJS, MongoDB
-- 📚 Tech Stacks: MERN, *more soon*
-- 🤝 I’m looking to collaborate on future personal projects
-- 📫 How to reach me: Gmail - hezekiahruizlegaspi@gmail.com | LinkedIn - https://www.linkedin.com/in/hezekiah-ruiz-legaspi-072526261/
+### Hi there 👋, I'm Hero Legaspi (HeroreH29)
+#### Full Stack Web Developer | MERN & TypeScript Enthusiast
 
-<!---
-HeroreH29/HeroreH29 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 🔭 I'm currently working on scalable web applications and refining my full-stack architecture skills.
+- 💡 Passionate about clean code, type-safe development with TypeScript, and building intuitive user experiences.
+- ⚡ Fun fact: When I'm not coding, you can find me exploring new web technologies or optimizing backend performance.
+
+---
+
+### 🛠️ Tech Stack & Tools
+- **Languages:** TypeScript, JavaScript (ES6+), HTML5, CSS3
+- **Frontend:** React.js, Next.js, Tailwind CSS, Redux Toolkit
+- **Backend:** Node.js, Express.js, RESTful APIs
+- **Databases & ORMs/ODMs:** MongoDB, Mongoose, PostgreSQL (if applicable)
+- **DevOps & Tools:** Git, GitHub Actions, Docker, Postman, Vercel, AWS
