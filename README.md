@@ -12,4 +12,4 @@
 - **Frontend:** React.js, Next.js, Tailwind CSS, Redux Toolkit
 - **Backend:** Node.js, Express.js, RESTful APIs
 - **Databases & ORMs/ODMs:** MongoDB, Mongoose, PostgreSQL (if applicable)
-- **DevOps & Tools:** Git, GitHub Actions, Docker, Postman, Vercel, AWS
+- **DevOps & Tools:** Git, GitHub Actions, Docker, Postman
